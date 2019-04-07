@@ -83,4 +83,8 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 
 
 
+另外：如果你想要查看搭建的配置或是修改信息，使用 `./ssr.sh` 可以看到。
+
+
+
 参考：[使用 Vultr 搭建 SSR 服务器的方法 - 掘金](<https://juejin.im/post/5bbdbffcf265da0ac2568a80>)
